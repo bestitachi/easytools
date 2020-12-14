@@ -6,3 +6,5 @@
 * WizTree 查看windows下的文件目录树,扫描很快,清理磁盘时用到
 * WinSCP  windows 与Linux同步文件的工具
 * UltraEdit 比较好用的收费软件,是个文本编辑器,能够打开大文件.nodepad++不能打开太大的文件会卡死,如500m的json文件.
+* DBeaver 数据库管理工具，包含各种常见的存储组件
+* 
